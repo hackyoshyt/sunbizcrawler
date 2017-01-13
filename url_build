@@ -1,0 +1,7 @@
+import string
+
+for letter in string.ascii_lowercase:
+	print(letter)
+
+
+url = http://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?inquiryType=EntityName&searchNameOrder= + " " + &searchTerm= + " "
